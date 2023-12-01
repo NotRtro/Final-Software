@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from datetime import datetime
-from datetime import datetime
+
 app = Flask(__name__)
 
 class Operacion:
