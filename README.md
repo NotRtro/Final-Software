@@ -1,6 +1,7 @@
 # Final-Software
 
-## Pregunta numero 3
+## Pregunta número 3
+
 ### En las clases:
 Clase Cuenta:  
   - Agregaría un nuevo atributo a la clase Cuenta para rastrear el total de dinero transferido en el día actual.  
